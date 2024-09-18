@@ -8,4 +8,3 @@
 ### Installation
     - clone this repository
     - run `brew install sdl2 sdl2_image`
-32131
