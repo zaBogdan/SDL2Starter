@@ -9,5 +9,5 @@
     - clone this repository
     - run `brew install sdl2 sdl2_image`
 
-Good luck! bzv
+Good luck! bzv.1
  
